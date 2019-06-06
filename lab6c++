@@ -57,6 +57,7 @@ int main()
 		in.close();
 
 		cout << B;
+		return 0;
 		
 	
 }
